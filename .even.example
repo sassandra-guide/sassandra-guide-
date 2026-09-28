@@ -1,5 +1,0 @@
-# Copie ces deux lignes dans Vercel : Settings > Environment Variables
-# (ou dans un fichier .env.local si un jour tu travailles sur ordinateur).
-# Ne mets JAMAIS la clé service_role ici : uniquement la clé PUBLIABLE.
-NEXT_PUBLIC_SUPABASE_URL=https://VOTRE-PROJET.supabase.co
-NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=VOTRE_CLE_PUBLIABLE
